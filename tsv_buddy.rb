@@ -1,3 +1,7 @@
+# Created on Sun Oct 7 02:43 2018
+# @author: Will Kuan
+# @studentID: 106078509
+
 # Module that can be included (mixin) to take and output TSV data
 module TsvBuddy
   # take_tsv: converts a String with TSV data into @data
